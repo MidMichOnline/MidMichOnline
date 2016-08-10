@@ -1,4 +1,4 @@
 #Content
 ##Sports
-* [Alumni Game](_posts/2016-08-10-101-2.md)
+* [Shepherd Alumni Baseball Game Info](_posts/2016-08-10-101-2.md)
 
