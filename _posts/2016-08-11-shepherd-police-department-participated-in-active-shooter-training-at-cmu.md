@@ -3,13 +3,15 @@ ID: 119
 post_title: >
   Shepherd Police Department participated
   in Active Shooter Training at CMU
-author: calauffer@charter.net
+author: Jon Morgan
 post_date: 2016-08-11 00:43:21
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.shepherdareahistoricalsociety.org/shepherd-police-department-participated-in-active-shooter-training-at-cmu/
 published: true
+post_views_count:
+  - "1"
 ---
 <h1 class="c7">Shepherd Police Department participated in Active Shooter Training at CMU</h1>
 <em>From the <a class="c2" href="https://www.google.com/url?q=https://www.facebook.com/Shepherd-Police-Department-205632619455314/?fref%3Dnf&amp;sa=D&amp;ust=1470879712208000&amp;usg=AFQjCNFlSwhC9vANCnFjUDj6Lus2YBgXHw">Shepherd Police Department</a></em>
