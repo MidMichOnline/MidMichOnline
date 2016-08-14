@@ -1,0 +1,20 @@
+---
+title: Remembering former Isabella County Undersheriff Burns
+layout: post
+author: midmichiganonline
+permalink: /remembering-former-isabella-county-undersheriff-burns/
+source-id: 1UYHBh-A2hNak-VrQvLbrwLL6LhxYO0WcEJmCZJjCgXI
+published: true
+---
+# Remembering former Isabella County Undersheriff Bill Burns
+
+*From the **[Shepherd Police Departmen*t](https://www.facebook.com/Shepherd-Police-Department-205632619455314/?fref=nf)
+
+I did not personally know Retired Undersheriff Burns, but as a police officer we are all family and the Shepherd Police Department sends our thoughts and prayers to his family.
+
+From what I have heard and read, I think this is fitting: You're born at Point A and you die at Point B, but it is what you in between that matters. Retired Undersheriff Burns did A LOT for the community through his service. Rest in Peace Sir!
+
+[For more information, see the Morning Sun article here.](http://www.themorningsun.com/general-news/20160814/longtime-isabella-undersheriff-dies)
+
+/ [Suggest Changes](https://docs.google.com/document/d/1UYHBh-A2hNak-VrQvLbrwLL6LhxYO0WcEJmCZJjCgXI/edit?usp=sharing) / 
+
