@@ -1,6 +1,6 @@
 ---
 ID: 292
-post_title: Shepherd Digest
+post_title: Timeline
 author: Jon Morgan
 post_date: 2016-08-16 21:13:58
 post_excerpt: ""
