@@ -9,3 +9,4 @@ permalink: >
   http://www.shepherdareahistoricalsociety.org/shepherd-digest/
 published: true
 ---
+[otw-bm-list id="3"]
