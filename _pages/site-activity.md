@@ -1,6 +1,6 @@
 ---
 ID: 229
-post_title: News Feed
+post_title: Timeline
 author: Jon Morgan
 post_date: 2016-08-13 15:39:39
 post_excerpt: ""
