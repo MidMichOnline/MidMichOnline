@@ -8,5 +8,7 @@ layout: post
 permalink: >
   http://www.shepherdareahistoricalsociety.org/the-shepherd-digest-august-14-2016/
 published: true
+post_views_count:
+  - "17"
 ---
 [otw-bm-list id="2"]
