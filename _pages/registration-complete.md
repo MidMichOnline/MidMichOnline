@@ -9,5 +9,5 @@ permalink: >
   http://www.shepherdareahistoricalsociety.org/registration-complete/
 published: true
 ---
-[ms-note type="info"]Your request to join the membership was successfully received!<br/>The Payment Gateway could take a couple of minutes to process and return the payment status.[/ms-note]
+[ms-note type="info"]Your request to join the membership was successfully received!<br />The Payment Gateway could take a couple of minutes to process and return the payment status.[/ms-note]
 [ms-membership-account-link]

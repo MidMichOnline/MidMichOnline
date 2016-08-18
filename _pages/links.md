@@ -23,7 +23,7 @@ published: true
  	<li><a href="http://www.mdch.state.mi.us/pha/osr/gendisx/search2.htm" target="_blank">Michigan Department of Community Health Genealogical Death Indexing System</a></li>
  	<li><a href="http://www.migenweb.net/migensoc.htm" target="_blank">Michigan Genealogical and Historical Societies</a></li>
  	<li><a href="http://www.migenweb.net/" target="_blank">Michigan Genealogy on the Web</a></li>
- 	<li><a href="/http://www.deathindexes.com/michigan/index.html" target="_blank">Online Michigan Deaths and Indexes</a></li>
+ 	<li><a href="//www.deathindexes.com/michigan/index.html" target="_blank">Online Michigan Deaths and Indexes</a></li>
  	<li><a href="http://seekingmichigan.org/" target="_blank">Seeking Michigan</a></li>
 </ul>
 <h2>Other History &amp; Genealogy Links</h2>

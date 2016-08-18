@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://www.shepherdareahistoricalsociety.org/old-27-motor-tour-update/
 published: true
+post_views_count:
+  - "5"
 ---
 <p class="c0 c6">From the <a class="c10" href="https://www.google.com/url?q=https://www.facebook.com/Shepherd-Police-Department-205632619455314/?fref%3Dnf&amp;sa=D&amp;ust=1470959524602000&amp;usg=AFQjCNGRc5k2nIS5gv_WYDR0EPQk4XWkCg">Shepherd Police Department</a></p>
 The Old 27 Motor Tour will be driving through Shepherd, down Wright Avenue, and then north on Chippewa to their next destination on August 25th (2 weeks from today).
