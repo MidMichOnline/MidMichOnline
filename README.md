@@ -1,2 +1,2 @@
-# The Mid Michigan Journal
-##August 11, 2016
+# The Shepherd Journal
+##August 17, 2016
