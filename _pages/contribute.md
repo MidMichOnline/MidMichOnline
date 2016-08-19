@@ -1,6 +1,6 @@
 ---
 ID: 165
-post_title: Contribute
+post_title: Submit an Article
 author: Jon Morgan
 post_date: 2016-08-12 23:29:27
 post_excerpt: ""
