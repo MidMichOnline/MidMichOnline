@@ -9,4 +9,4 @@ permalink: >
   http://www.shepherdareahistoricalsociety.org/protected/
 published: true
 ---
-<p>The content you are trying to access is only available to members. Sorry.</p>
+The content you are trying to access is only available to members. Sorry.
