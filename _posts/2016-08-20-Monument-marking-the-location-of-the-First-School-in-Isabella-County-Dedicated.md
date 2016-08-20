@@ -37,7 +37,7 @@ During the ceremony, Brian Eldred sang a couple of songs, and DAR Past Regent Ca
 * * *
 
 
-![image alt text]({{ site.url }}/public/mwDyLPwnXlDxHMGVUa31Nw_img_5.jpg)
+![image alt text](../public/mwDyLPwnXlDxHMGVUa31Nw_img_5.jpg)
 
 * * *
 
