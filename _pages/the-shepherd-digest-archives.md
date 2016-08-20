@@ -1,6 +1,6 @@
 ---
 ID: 451
-post_title: The Shepherd Digest Archives
+post_title: The Shepherd Digest
 author: Jon Morgan
 post_date: 2016-08-20 01:09:07
 post_excerpt: ""
