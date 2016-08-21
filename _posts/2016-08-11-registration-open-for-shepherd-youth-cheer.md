@@ -13,7 +13,7 @@ published: true
 post_views_count:
   - "4"
 ---
-<h1 class="c7">Registration open for Shepherd Youth Cheer</h1>
+#Registration open for Shepherd Youth Cheer
 
 From <a class="c6" href="https://www.google.com/url?q=https://www.facebook.com/shepherd.cheer?fref%3Dnf&amp;sa=D&amp;ust=1470959521912000&amp;usg=AFQjCNFULDZ8zPMVpBvrPQxtwotEAvdYxg">Andrea Elizabeth Hall</a>
 
