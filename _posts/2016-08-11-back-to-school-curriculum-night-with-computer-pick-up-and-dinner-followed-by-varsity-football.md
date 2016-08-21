@@ -14,6 +14,7 @@ published: true
 post_views_count:
   - "8"
 ---
+#BACK TO SCHOOL CURRICULUM NIGHT with COMPUTER PICK-UP and DINNER (Followed by Varsity Football)
 <p class="c6 c8"><em>From the <a class="c7" href="https://www.google.com/url?q=https://www.facebook.com/shepherdmihs/posts/501041053424318&amp;sa=D&amp;ust=1470959537374000&amp;usg=AFQjCNFsPFMnYnfDGGMOnGiomscFTPHumA">Shepherd High School</a></em></p>
 
 MARK YOUR CALENDARS
