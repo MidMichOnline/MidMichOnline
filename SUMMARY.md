@@ -8,4 +8,4 @@
 * [Back to School Curriculum Nigh with Computer Pick Up and Dinner followed by Varsity Football](_posts/2016-08-11-back-to-school-curriculum-night-with-computer-pick-up-and-dinner-followed-by-varsity-football.md)
 * [Mid Michigan News Roundup 08/21/2016](_posts/2016-08-21-Mid-Michigan-News-8/20/2016.md)
 * [Shepherd Community News 08/21/2016](_posts/2016-08-21-Shepherd-Community-News-8/20/2016.md)
-
+* [Soccer Registration Information](_posts/2016-08-11-soccer-registration-information.md)
