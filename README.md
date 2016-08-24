@@ -1,2 +1,2 @@
 # The Shepherd Journal
-##August 21, 2016
+##August 24, 2016
