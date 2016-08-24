@@ -1,2 +1,2 @@
-# The Shepherd Journal
+# The Shepherd Digest
 ##August 24, 2016
