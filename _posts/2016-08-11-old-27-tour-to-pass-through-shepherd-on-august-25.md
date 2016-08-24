@@ -13,8 +13,6 @@ published: true
 post_views_count:
   - "2"
 ---
-#1
-##Shepherd to be Invaded by Classic Cars on Thursday, August 25
+##1. Classic Cars to Cruise through Shepherd on Thursday
 
-From Facebook:
-The Old 27 Tour will be leaving St. Louis around 5:15 p.m. and then enter the Village of Shepherd from the West end of town, drive down Wright Avenue, and then head north on Chippewa Street.<br />According to information released by the Old 27 Car Tour Committee, this is the 10th Anniversary of the Old 27 Car Tour.
+The Old 27 Tour is scheduled to pass through the Village of Shepherd on Thursday around 5:15 p.m. They will enter town from the west end of town, head down Wright Avenue, and then head north on Chippewa Street.
