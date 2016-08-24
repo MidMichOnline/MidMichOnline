@@ -1,5 +1,5 @@
 ##1
-[](_posts/2016-08-11-old-27-motor-tour-update.md)
+[Shepherd to be invaded by Classic Cars on Thursday](_posts/2016-08-11-old-27-tour-to-pass-through-shepherd-on-august-25.md)
 
 * [Contents](README.md)
 
