@@ -13,6 +13,6 @@ published: true
 post_views_count:
   - "2"
 ---
-##1. Classic Cars to Cruise through Shepherd on Thursday
+#1. Classic Cars to Cruise through Shepherd on Thursday
 
 The Old 27 Tour is scheduled to pass through the Village of Shepherd on Thursday around 5:15 p.m. They will enter town from the west end of town, head down Wright Avenue, and then head north on Chippewa Street.
