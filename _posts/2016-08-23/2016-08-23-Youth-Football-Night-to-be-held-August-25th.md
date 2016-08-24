@@ -8,7 +8,7 @@ published: true
 ---
 # Youth Football Night to be held August 25th
 
-*From the **[Shepherd Youth Football Program Facebook Pag*e](https://www.facebook.com/Shepherdyouthfootball/)
+From the [Shepherd Youth Football Program Facebook Page](https://www.facebook.com/Shepherdyouthfootball/)
 
 Good Afternoon Blue Jays!!
 
