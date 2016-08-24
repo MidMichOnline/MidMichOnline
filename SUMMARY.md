@@ -6,5 +6,5 @@
 * [Shepherd News Round-up 8/23/2016](shepherdnewsround-up_8232016.md)
 * [Shepherd Public School School Year Information](_posts/2016-08-21-shepherd-public-schools-school-year-information.md)
 * [SHS Back to School Curriculum Night](_posts/2016-08-19-back-to-school-curriculum-night-update.md)
-* Central Michigan News
+* [Mid Michigan News Round Up 08/23/2016](Mid Michigan News Round Up)
 
