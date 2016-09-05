@@ -1,2 +1,2 @@
-#The Shepherd Digest
-##September 3, 2016
+#The Shepherd Journal
+##September 4, 2016
